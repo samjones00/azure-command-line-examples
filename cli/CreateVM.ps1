@@ -13,7 +13,7 @@ az vm create `
 
 
 az vm auto-shutdown `
--g azure-fundamentals-vm-cli `
+-g azure-fundamentals-vm-cli-demo `
 -n vm2 `
 --time 2000
 
