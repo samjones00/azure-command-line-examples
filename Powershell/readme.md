@@ -1,4 +1,4 @@
-# Azure Powershell Module
+# Azure Powershell Examples
 
 Install Azure Powershell Module
 ```Powershell 
