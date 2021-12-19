@@ -1,4 +1,4 @@
 # Azure Command Line Examples
 
-* [Powershell Examples](/powershell)
+* [Powershell Examples](/Powershell)
 * [Azure CLI Examples](/cli)
